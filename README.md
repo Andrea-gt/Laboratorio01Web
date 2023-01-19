@@ -124,4 +124,11 @@ Organization: The Internet
 </pre>
         </td>
     </tr>
+    <tr>
+        <td>10</td>
+        <td><strong>En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?</strong></td>
+        <td> MY PROFILE RANKING OF YOU INDICATES:<br> FIRST AND FOREMOST...<br> YOU ARE A LOVING PERSON<br>NEXT...<br>YOU THINK THINGS OUT INTELLIGENTLY<br>THIRDLY...<br>YOU HAVE SEXUAL INCLINATIONS<br>NEXT TO LAST...<br>YOU ARE RIGHTEOUS<br>LASTLY...<br>YOU TAKE ADVANTAGE OF ANY OPPORTUNITY
+</pre>
+        </td>
+    </tr>
 </table>
