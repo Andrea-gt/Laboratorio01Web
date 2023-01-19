@@ -42,4 +42,9 @@ ______
             yes
         </td>
     </tr>
+        <tr>
+        <td>5</td>
+        <td><strong>Coloquen un ejemplo de un fnord.</strong></td>
+        <td>The lecherous paddle is drugged.</td>
+    </tr>
 </table>
