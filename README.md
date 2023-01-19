@@ -31,4 +31,15 @@ ______
 </pre>
         </td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td><strong>¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+            Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
+            </strong>
+        </td>
+        <td>what is life<br>
+            ARE SUCH QUESTIONS MUCH ON YOUR MIND?<br>
+            yes
+        </td>
+    </tr>
 </table>
