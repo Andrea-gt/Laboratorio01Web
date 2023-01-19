@@ -66,4 +66,9 @@ Autonomous System    AS52362 Servicios Innovadores de Comunicacion y Entretenimi
 </pre>
         </td>
     </tr>
+    <tr>
+        <td>7</td>
+        <td><strong>¿Donde está ubicado en host bkj386?</strong></td>
+        <td>bkj386   77.230 ms  107.982 ms  120.611 ms</td>
+    </tr>
 </table>
