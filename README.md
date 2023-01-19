@@ -76,4 +76,52 @@ Autonomous System    AS52362 Servicios Innovadores de Comunicacion y Entretenimi
         <td><strong>Traduzcan la siguiente frase a clave morse: ye shall be as gods</strong></td>
         <td>-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...</td>
     </tr>
+    <tr>
+        <td>9</td>
+        <td><strong>Busquen en usenet y escojan algún post interesante</strong></td>
+        <td>
+            <pre>
+From: rfrost@spam.ua.OZ.AU (Richard Frost)
+Subject: Problems finding _Happy_ in Australia..
+Date: 11 May 91 14:58:01 GMT
+Newsgroups: rec.music.gaffa
+Organization: The Internet
+
+
+ Hello to all!
+
+   Where are all the Aussie Love Hounds in this group??
+
+   I would like to know if there are any love hounds here in
+ Adelaide, and if there are, is there a KaTemas organized
+ yet? I am willing to hold one at my place if a venue has 
+ not been decided on. 
+
+   Am I the only Adelaide KaTe fan that reads this group???
+
+   I tried to get hold of some of Happy Rhode's music today and
+ have not found a place that stocks even 1 cassette of her
+ music. I browsed through an list of artists that are
+ currently available in the US .. no Happy! The man at the
+ store assured me that this was the most recent list of titles.
+
+ Someone please send me an address so I can order this music!
+
+ Thanks to Andrew Marvick I now have a mailing address to the Aussie
+ KaTe fanzine. For those that don't know it here it is:
+
+       Dreamtime
+       c/o Gaye Godfrey
+       46 Gladstone Avenue
+       South Perth 6151
+       West Australia
+  
+  Andrew says that the address is old and might now be different, if
+  this is so, someone post the new address on GAFFA.
+
+  Thats all for now..
+
+</pre>
+        </td>
+    </tr>
 </table>
