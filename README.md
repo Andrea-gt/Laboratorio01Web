@@ -42,9 +42,28 @@ ______
             yes
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>5</td>
         <td><strong>Coloquen un ejemplo de un fnord.</strong></td>
         <td>The lecherous paddle is drugged.</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td><strong>¿Cuál es la ubicación de su ip?¿Y su ip pública?</strong></td>
+        <td>
+            <pre>
+45.229.43.195
+Guatemala<br>
+
+Autonomous System    AS52362 Servicios Innovadores de Comunicacion y Entretenimiento, S.A.
+  Continent            North America
+  Country              Guatemala
+  Subdivision          Guatemala Department
+  City                 Guatemala City
+  Postal Code          01010
+  Time Zone            America/Guatemala (UTC-06:00)
+  Latitude, Longitude  14.6343, -90.5155 (+/- 20 km)
+</pre>
+        </td>
     </tr>
 </table>
